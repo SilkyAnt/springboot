@@ -4,6 +4,7 @@ target
 *.classpath
 *.project
 *.iml
+settings.json
 # Compiled class file
 *.class
 
