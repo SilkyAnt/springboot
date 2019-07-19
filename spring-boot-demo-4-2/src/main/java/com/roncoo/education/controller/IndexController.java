@@ -1,6 +1,3 @@
-/**
- * 2015-2016 龙果学院 (www.roncoo.com)
- */
 package com.roncoo.education.controller;
 
 import java.util.Date;
@@ -16,7 +13,7 @@ import com.roncoo.education.bean.User;
 /**
  * spring-boot-demo-4-2
  * 
- * @author wujing
+ * @author Silky_Ant
  */
 @RestController
 @RequestMapping(value = "/index")
